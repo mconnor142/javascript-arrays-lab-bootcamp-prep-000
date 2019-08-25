@@ -24,3 +24,7 @@ function destructivelyRemoveFirstKitten(){
 function appendKitten(name){
   return [...kittens, "Broom"];
 }
+
+function prependkitten(name){
+  return []
+}
