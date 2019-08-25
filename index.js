@@ -26,5 +26,5 @@ function appendKitten(name){
 }
 
 function prependkitten(name){
-  return []
+  return ["Arnold", ...kittens]
 }
